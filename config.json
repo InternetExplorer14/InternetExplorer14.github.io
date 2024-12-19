@@ -3,5 +3,8 @@
     "subTitle":"Hanser!",
     "avatarUrl":"https://cdn.luogu.com.cn/upload/usericon/1303746.png",
     "GMEEK_VERSION":"last",
-    "needComment":1
+    "needComment":1,
+    "UTC":8,
+    "i18n":CN,
+    "startSite":"12/19/2024"
 }
